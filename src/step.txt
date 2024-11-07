@@ -1,0 +1,11 @@
+<!-- ========== Initialization ========== -->
+1.go to console.firebase.google.com
+2.create a project(skip google analitics)
+3.click your project
+4.click add app
+5.reginster app (write a name)
+6.install firebase
+7.add config file to your project
+8.do not share confiq file and public by pushing github
+
+<!-- ========== End Initialization ========== -->
