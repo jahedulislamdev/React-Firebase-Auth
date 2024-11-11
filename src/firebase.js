@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCTJPLMs2EpaSMMjFwBmHntHeytm8Pwkhw",
-    authDomain: "simle-firebase-84a45.firebaseapp.com",
-    projectId: "simle-firebase-84a45",
-    storageBucket: "simle-firebase-84a45.firebasestorage.app",
-    messagingSenderId: "507986017300",
-    appId: "1:507986017300:web:ed87bb5e301f5ee5927b01",
+    apiKey: "AIzaSyD18qctbCmE0BbhaF-GS2yAZKBn_qrqWtM",
+    authDomain: "fir-auth-a72b6.firebaseapp.com",
+    projectId: "fir-auth-a72b6",
+    storageBucket: "fir-auth-a72b6.firebasestorage.app",
+    messagingSenderId: "761203050964",
+    appId: "1:761203050964:web:d5bf64e9adc55adae5ee41",
 };
 
 // Initialize Firebase

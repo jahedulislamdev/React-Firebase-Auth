@@ -7,5 +7,17 @@
 6.install firebase
 7.add config file to your project
 8.do not share confiq file and public by pushing github
-
 <!-- ========== End Initialization ========== -->
+<!-- ========== Intigration ========== -->
+9.go to the project and you can see the authentication in your left sidebar click on it
+10. click web (you can see the sign in method)
+11. login.jsx : import getauth from firebase auth.
+12. export app from the firebase from the firebase.js file
+const auth = getauth(app);
+<!-- ==========End Intigration ========== -->
+<!-- ==========provider Setup========== -->
+13. import googleauth provider and a new provider
+14.activate  sign in method(google,github,) 
+<!-- ==========provider Setup========== -->
+
+
